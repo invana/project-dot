@@ -6,4 +6,4 @@ Dimensions of Truth, is a project created to generate knowledge graphs that conn
 
 The project is purely based on the assumtion that truth is something which depends on a person's perspective and experience, where as fact is something that cannot be combated with reasoning, for it is logic itself. 
 
-This project envisions to gather the truths only not validating or reasons is as the facts.
+This project envisions to gather the versions of truths only; not validating or reasons it as the facts.
